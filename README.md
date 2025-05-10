@@ -31,7 +31,7 @@
 
 - 🔹 [Self-Service Kiosk for Restaurants](https://github.com/tiago4lex/donalds): McDonald’s self-service terminal with responsive design, reusable components and high performance database structure.
 - 🔹 [Spotify Clone](https://github.com/tiago4lex/Projeto-Spotify): Spotify clone web app for searching artists, viewing profiles, and playing songs.
-- 🔹 [Clothing Store with React](https://github.com/tiago4lex/store-project-v2): E-commerce prototype with component-based styling and interactive design.
+- 🔹 [Clothing Store with React](https://github.com/tiago4lex/store-webpage): E-commerce prototype with component-based styling and interactive design.
 - 🔹 [To-Do List](https://github.com/tiago4lex/todo-list): Task manager with dark mode, filters, and animations using Framer Motion.
 
 ### 🧩 C Language Projects
