@@ -43,6 +43,7 @@
 
 ### 🌐 Web Development
 
+- 🔹 [Ferrari Page](https://github.com/tiago4lex/ferrari-project): An elegant Ferrari showcase website featuring vehicle models, racing team info, and a contact form, built with HTML, CSS, and JavaScript.
 - 🔹 [Self-Service Kiosk for Restaurants](https://github.com/tiago4lex/donalds): McDonald’s self-service terminal with responsive design, reusable components and high performance database structure.
 - 🔹 [Spotify Clone](https://github.com/tiago4lex/Projeto-Spotify): Spotify clone web app for searching artists, viewing profiles, and playing songs.
 - 🔹 [Clothing Store with React](https://github.com/tiago4lex/store-webpage): E-commerce prototype with component-based styling and interactive design.
