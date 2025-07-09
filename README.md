@@ -13,9 +13,16 @@
 
 **Cybersecurity & Networking**  
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-4682B4?style=flat&logo=data:image/svg+xml;base64,...&logoColor=white)
-![Networking](https://img.shields.io/badge/-TCP/IP-FF6F00?style=flat&logo=wireshark&logoColor=white)
+![Shell Scripting](https://img.shields.io/badge/-Shell--Scripting-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-4682B4?style=flat&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6F00?style=flat&logoColor=white)
+![SQLmap](https://img.shields.io/badge/-SQLmap-CC0000?style=flat&logoColor=white)
+![Networking](https://img.shields.io/badge/-TCP/IP-0033A0?style=flat&logo=wireshark&logoColor=white)
+
+- Penetration Testing (SQL Injection, XSS, authentication bypass)
+- Network scanning and service enumeration
+- CLI usage and server administration (Linux)
+- IP addressing, routing, DNS, firewalls
 
 **Programming Languages**  
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
